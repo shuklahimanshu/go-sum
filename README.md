@@ -1,7 +1,15 @@
-Starting Point for Go Project.
+# Starting Point for Go Project.
 
-A simple addition project which uses Testify as the testing framework.
+A simple addition project on Go which uses Testify as the testing framework.
 
-Run:
-`go build` for building the project
-`go test` for running the tests
+**Commands:**
+
+for building the project
+```
+go build
+```
+
+for running the tests
+```
+go test
+```

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/6amedev/go_sum/app"
+	"github.com/6ameDev/go-sum/app"
 )
 
 func main() {

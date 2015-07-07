@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/6amedev/go_sum/app"
+	"github.com/6ameDev/go-sum/app"
 	"github.com/stretchr/testify/assert"
 )
 
